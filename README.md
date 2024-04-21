@@ -1,0 +1,1 @@
+Execute **npm install** then **npm run serve**
